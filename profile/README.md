@@ -24,12 +24,13 @@ Somos una agencia de IA y tecnología. Diseñamos y construimos arquitecturas op
 - Dashboards para decidir con datos.
 - Sistemas completos para salud, restaurantes, founders B2B, contables, inmobiliarias, e-commerce y comercio.
 
+<img src="integrations.svg" width="100%" alt="Más de 40 integraciones: n8n, WhatsApp, Claude, OpenAI, Supabase, Notion, Google Sheets, Airtable, Make, Stripe, HubSpot, Shopify, Slack, Twilio, Chatwoot, ElevenLabs, WordPress, WooCommerce y Cloudflare, entre otras." />
+
 ## Cómo trabajamos
 
-1. **Auditoría operativa gratuita.** Mapeamos cómo funciona el negocio hoy y dónde se pierde tiempo, clientes o información.
-2. **Propuesta a medida.** Arquitectura, alcance, herramientas, inversión y plazos, por escrito.
-3. **Construcción por sprints.** Ciclos semanales con entregables visibles.
-4. **Entrega y acompañamiento.** Pruebas con datos reales, capacitación y 30 días de ajustes incluidos.
+Sin atajos. Sin sorpresas.
+
+<img src="process.svg" width="100%" alt="Proceso en 7 etapas: 1 Auditoría Operativa (gratis, 30 a 45 minutos), 2 Propuesta a Medida (5 a 7 días después), 3 Acuerdo y Cierre (cuando vos lo decidas), 4 Análisis Profundo (sprint inicial de 5 a 10 días), 5 Construcción por Sprints (entregables cada semana), 6 Pruebas y Documentación (validación con datos reales), 7 Entrega y Seguimiento (acompañamiento y 30 días de ajuste)." />
 
 ## Cuatro reglas
 
