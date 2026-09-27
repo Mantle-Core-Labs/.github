@@ -36,11 +36,6 @@ Somos una agencia de IA y tecnología. Diseñamos y construimos arquitecturas op
 - **Acompañamiento real.** Hablás con quien construye, no con un ticket.
 - **Arquitectura integral.** Un sistema coherente, no herramientas sueltas.
 
-## Proyectos abiertos
-
-- **[Sistema Clínica](https://github.com/santiago-sanabria-craft/sistema-clinica)**: secretaria virtual de WhatsApp para clínicas, con agenda de turnos, recordatorios y panel de control.
-- **[Reservas Sin Caos](https://github.com/santiago-sanabria-craft/reservas-sin-caos)**: reservas para restaurantes por WhatsApp, con recordatorios, liberación automática de mesas y panel de control.
-
 <br>
 
 <div align="center">
