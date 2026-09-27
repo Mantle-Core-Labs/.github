@@ -2,6 +2,8 @@
 
 <img src="banner.svg" width="100%" alt="Mantle Core Labs, arquitectura operativa a medida" />
 
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=22&pause=1000&color=F5E9D0&center=true&vCenter=true&width=720&lines=Donde+el+caos+se+convierte+en+sistema;A+medida%2C+no+de+cat%C3%A1logo;Agentes+de+IA+%2B+automatizaci%C3%B3n+%2B+datos" alt="Donde el caos se convierte en sistema" />
+
 <br><br>
 
 <a href="https://mantlecorelabs.com/auditoria"><img src="https://img.shields.io/badge/Pedir_auditoría_gratuita-F5E9D0?style=for-the-badge&logo=googlechrome&logoColor=0A0A0A" alt="Pedir auditoría gratuita" /></a>
